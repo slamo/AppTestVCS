@@ -1,3 +1,5 @@
+// what is that 
+
 package org.slamo.app_01.apptestvcs;
 
 import android.support.v7.app.ActionBarActivity;
